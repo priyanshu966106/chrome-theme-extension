@@ -1,0 +1,23 @@
+{
+    "manifest_version": 3,
+    "version": "1.0.0",
+    "name": "Priyanshu Chrome Theme",
+    "theme": {
+      "images": {
+        "theme_ntp_background": "images/logo.png"
+      },
+      "properties": {
+        "ntp_background_alignment": "bottom",
+        "ntp_background_repeat": "repeat"
+      },
+      "colors": {
+        "frame": [242, 193, 162],
+        "toolbar": [237, 119, 45]
+      },
+      "tints": {
+        "buttons": [0.33, 0.33, 0.04],
+        "background_tab": [0.33, 0.33, 0.04]
+      }
+    }
+  }
+  
